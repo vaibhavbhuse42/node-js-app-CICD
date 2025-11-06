@@ -7,6 +7,9 @@ Node.js	Backend framework
 GitHub	Source code repository
 PM2	Node process manager
 AWS EC2 (Ubuntu)	Hosting & deployment environment
+
+![](/image/node%20flow%20Digram.jpg)
+
 ## ⚙️ Jenkins Setup Process
 ### 🔑 Step 1: Add SSH Credentials
 
